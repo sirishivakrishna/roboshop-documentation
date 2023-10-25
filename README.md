@@ -20,4 +20,4 @@ Below is the communication between components and dependency. This dependency co
 * We can use RDBMS like MySQL, MSSQL, Postgress, etc for row and column based data.
 * We can use NoSQL databases like MongoDB for storing the product information.
 * We can use Cache servers like Redis to access the data with lightening speed.
-* We can use MQ Servers like RabbitMQ, ActiveMQ, Kafka, etc for asynchronous communication.
+* We can use MQ Servers like RabbitMQ, ActiveMQ, Kafka, etc for asynchronous communication.# roboshop-documentation
